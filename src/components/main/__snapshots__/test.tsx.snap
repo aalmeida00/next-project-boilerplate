@@ -59,7 +59,7 @@ exports[`<Main /> should render the heading 1`] = `
   <p
     class="c3"
   >
-    TypeScript, ReactJS, NextJS, Styled Components.
+    TypeScript, ReactJS, NextJS, Styled Components
   </p>
   <img
     alt="Um astronauta na lua"
